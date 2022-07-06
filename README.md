@@ -3,7 +3,7 @@ Repository following my projects within the 2022's CS50x course at Harvard Unive
 
 Repo dedicado ao meu projeto da Semana 2 - C Arrays, do curso CS50 de Introdução a Ciência da Computação, da Universidade de Harvard.
 
-A week2 (segunda aula) continua na linguagem C, e teve três desafios diferentes. O primeiro deles (Lab2) se chama Scrabble, que é um jogo em que cada pessoa escolhe 
+A week2 (terceira aula) continua na linguagem C, e teve três desafios diferentes. O primeiro deles (Lab2) se chama Scrabble, que é um jogo em que cada pessoa escolhe 
 palavra, sendo que cada letra do alfabeto tem uma 'pontuação' diferente, sendo o vencedor quem somar o maior número de pontos com a sua palavra escolhida. Neste 
 código o maior desafio era fazer o assignment do valor indicado que cada letra do alfabeto teria, dado pelo array POINTS. Após isso, têm-se a criação de um contador 
 que vai somar o  valor de cada letra das palavras de cada participante, e posteriormente outra parte do código entrega o vencedor com base na maior somatória.
